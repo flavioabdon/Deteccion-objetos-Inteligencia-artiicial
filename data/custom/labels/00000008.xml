@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00000008.jpg</filename>
+	<path>/home/arch20/Escritorio/expociencias/deteccion-objetos-video/data/custom/images/00000008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>10</ymin>
+			<xmax>399</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
